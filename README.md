@@ -1,1 +1,1 @@
-<h2><a href=javascript:window.parent.postMessage(fetch({alert(), {"mode":"no-cors"}})"Clickable Heading</a></h2>
+<h2><a href=`javascript:window.parent.postMessage({fetch(alert()})"Clickable Heading</a></h2>
