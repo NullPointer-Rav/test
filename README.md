@@ -1,1 +1,1 @@
-<img src="https://b7b8b4c15ae239.lhr.life" onerror="console.log(1)">
+<img src="https://754440ac77fd2c.lhr.life" onerror="console.log(1)">
